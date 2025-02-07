@@ -4,3 +4,4 @@ My First Git repository
   purpose : verify Branch
   0000000
   0000001
+ 0000002
